@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular,Hibernate,Spring,Springboot**
 
-- 💬 Ask me about **Angular,Hibernate,Spring,Springboot**
+- 💬 Ask me about **HTML,CSS,Bootstrap,Javascript,Angular,MySql,JDBC,Hibernate,Spring,Springboot**
 
 - 📫 How to reach me **jaiswalakshit.sit.comp@gmail.com**
 
